@@ -87,5 +87,8 @@ The findings and insights from the analysis of a data set on the salaries of emp
 
 **Other Findings**
 
+* 52% of employees didn't have overtime work and 28% didn't have other pay.
+* 74% of employees have Benefits pay.
 * Benefits data is missing for 2011.
-* Some rows were dropped due to missing values or data integrity issues. 
+* There is an upward trend from 2011 to 2013, followed by a steep drop in 2014.
+* Some rows were dropped due to missing values or data integrity issues.
